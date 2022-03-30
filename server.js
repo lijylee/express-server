@@ -43,5 +43,5 @@ app.use(function (req, res) {
 
 const PORT = 8899
 app.listen(PORT, () => {
-    console.log(`gis data server runing at port: ${PORT}`)
+    console.log(`gis data server running at port: ${PORT}`)
 })
